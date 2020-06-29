@@ -33,7 +33,7 @@ setName("Ivan3") should throw the customized exception
 
 9) In third activity
  9.1 create try-catch blocks
- 9.2 handel the exceptions
+ 9.2 handle the exceptions
 
 
 
@@ -42,7 +42,7 @@ setName("Ivan3") should throw the customized exception
 1) Think how to include abstraction and interfaces,
 for example create abstraction Humanity for Employee and Students
 
-2) Try to save employee list in to TXT file on HDD
+2) Try to save employee list in to mysql db.
 
 3) Develop println of n Fibonacci_number https://en.wikipedia.org/wiki/Fibonacci_number
     For example if user put 7 -> 0 1 1 2 3 5 8. if user put 10 -> 0 1 1 2 3 5 8 13 21 34
